@@ -1,6 +1,3 @@
-Claro! Vou ajudar você a criar um README para o seu repositório GitHub, onde você utilizou Databricks e Python para analisar dados da Playstore de 2018. O README deve conter uma introdução, descrição do projeto, instruções de configuração, detalhes sobre as análises realizadas, e como contribuir ou usar o projeto. Abaixo está um modelo que você pode ajustar conforme necessário:
-
----
 
 # Análise de Dados da Playstore 2018
 
@@ -64,4 +61,3 @@ Você pode usar este projeto para aprender sobre análise de dados com Databrick
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
